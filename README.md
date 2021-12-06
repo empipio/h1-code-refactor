@@ -1,7 +1,7 @@
 # h1-code-refactor
 homework number 1
 
-This code has been refactored to improve accessibility. The HTML has been tweaked: initially lots of <div> elements were present: many of these have been replaced with semantic html elements.
+This code has been refactored to improve accessibility. The HTML has been tweaked: initially lots of div elements were present: many of these have been replaced with semantic html elements.
 The structure of html elements should now follow a logical structure.
 Alt attributes have been added to all images.
 A title element has been added.
